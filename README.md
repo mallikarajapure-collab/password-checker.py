@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FCD34D&height=210&section=header&text=PASSWORD%20STRENGTH%20CHECKER&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Understand%20Password%20Strength&descAlignY=60&descSize=15" width="100%" />
+
+</div>
+
+---
+
 # Password Strength Checker
 
 ## Description
